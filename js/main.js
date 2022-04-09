@@ -1,0 +1,1 @@
+$(function(){$(".menu-toggle").on("click",function(){$(".menu-toggle, .menu-toggle__info").toggleClass("active")}),$(".reviews__slider").slick({arrows:!1,dots:!0})});
